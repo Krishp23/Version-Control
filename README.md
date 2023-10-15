@@ -1,4 +1,4 @@
-<h1>Version Control Lab</h1>
+# Version Control Lab
 
 This program takes the users name and age as inputs and prints them.
 
